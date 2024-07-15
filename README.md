@@ -12,13 +12,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iyaanugraah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anugrah-dwi-kustanto-4b4555312/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anugrahdwi1005) 
 
-###
-
-<h2 align="left">Github Stats</h2>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=codeuga&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
 
 ###
 
