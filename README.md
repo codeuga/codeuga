@@ -23,11 +23,11 @@
 
 ###
 
-<h2 align="left"> Laptop and Monitor in use & Favorite Terminal</h2>
+<h2 align="left"> Laptop in use & Favorite Terminal</h2>
 
 ###
 
-<img src="https://img.shields.io/badge/msi%20GF63-000?style=for-the-badge&logo=msi&logoColor=FF0000"/> <img src="https://img.shields.io/badge/xiaomi-FFFFFF?style=for-the-badge&logo=xiaomi&logoColor=FF6900"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/msi%20GF63-000?style=for-the-badge&logo=msi&logoColor=FF0000"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 
 ###
 
