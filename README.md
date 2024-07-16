@@ -27,4 +27,11 @@
 
 ###
 
-<img src="https://img.shields.io/badge/msi-GF63-333333?style=for-the-badge&logo=msi&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/msi%20GF63-000?style=for-the-badge&logo=msi&logoColor=FF0000"/>  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+###
+
+<h2 align="left">Music apps I use</h2>
+
+###
+[![Sporify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31te545bnutrw6gvklfjfzxy6a74?si=73fa6da5cac44ee8)
