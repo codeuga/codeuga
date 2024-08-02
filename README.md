@@ -1,19 +1,4 @@
-<h1 align="left">About Me</h1>
 
-###
-
-<p align="left">My name is Anugrah Dwi Kustanto, a freshman at Universitas 17 Agustus 1945 Surabaya, majoring in Systems and Information Technology. Currently, I am actively involved in the field of Information Technology and aspire to become a successful mobile developer. Since childhood, I have been fascinated by the world of technology, particularly in mobile application development. I see great potential in mobile apps to simplify daily life, and I want to be part of that progress. Throughout my educational journey, I have learned various programming languages and related technologies, which have further strengthened my interest and skills in this field. My long-term goal is to create innovative and beneficial mobile applications for the wider community.I believe that with dedication and hard work, I can achieve this dream and make a meaningful contribution to the world of technology.</p>
-
-###
-
-<h2 align="left">Connect With Me</h2>
-
-###
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iyaanugraah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrah-dwi-kustanto-4b4555312/) 
-
-
-###
 
 <h2 align="left">Tech Stack</h2>
 
