@@ -6,7 +6,6 @@
 ###
 
 <img src="https://img.shields.io/badge/msi%20GF63-000?style=for-the-badge&logo=msi&logoColor=FF0000"/>
- ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white
 
 
 
